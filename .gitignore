@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Datos y Modelos
+data/
+models/
+*.csv
+*.npz
+
+# Archivos de sistema y Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
